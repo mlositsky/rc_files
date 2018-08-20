@@ -1,6 +1,6 @@
-#RC FILES
+# RC FILES
 
-##Installation
+## Installation
 
 ```
 curl -O https://raw.githubusercontent.com/mlositsky/rc_files/master/.bashrc
